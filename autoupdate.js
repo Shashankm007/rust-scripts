@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         auto update testing
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @match        *://*/*
@@ -15,5 +15,5 @@
     'use strict';
 
     console.log("hi 2");
-    console.log("ver 22");
+    console.log("ver 333");
 })();
