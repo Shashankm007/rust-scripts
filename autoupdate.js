@@ -7,12 +7,13 @@
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=stackoverflow.com
 // @grant        none
-// @downloadURL
-// @updateURL
+// @downloadURL  https://raw.githubusercontent.com/Shashankm007/rust-scripts/main/autoupdate.js
+// @updateURL    https://raw.githubusercontent.com/Shashankm007/rust-scripts/main/autoupdate.js
 // ==/UserScript==
 
 (function() {
     'use strict';
 
     console.log("hi 2");
+    console.log("ver 2");
 })();
